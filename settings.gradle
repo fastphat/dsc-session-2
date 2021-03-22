@@ -1,0 +1,2 @@
+rootProject.name = "DSC_Session_2"
+include ':app'
